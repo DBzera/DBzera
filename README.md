@@ -1,4 +1,4 @@
-## Hi there 👋, sou o Andrey Gil, desenvolvedor Mobile!
+## Hi there 👋, I`m Andrey Gil, Software Developer!
  <div>
   <a href="https://github.com/DBzera">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DBzera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
